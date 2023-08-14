@@ -542,7 +542,7 @@ textarea{
     .body-content {
         width: 80%;
         height: 100vh;
-        background-color: rgb(68, 255, 0);
+        /* background-color: rgb(68, 255, 0); */
     }
     .form textarea{
         height: 120px;
@@ -564,7 +564,7 @@ textarea{
     .body-content {
         width: 80%;
         height: 100vh;
-        background-color: rgb(189, 57, 0);
+        /* background-color: rgb(189, 57, 0); */
     }
     .translate-main{
         flex-direction: column;
@@ -625,7 +625,7 @@ textarea{
     .body-content {
       width:300px;
       height: 100vh;
-      background-color: orange;
+      /* background-color: orange; */
     }
     .form textarea{
         height: 120px;
@@ -656,7 +656,7 @@ textarea{
 @media (max-width: 360px) {
     .body-content {
         width:85%;
-        background-color: red;
+        /* background-color: red; */
     }
     .form textarea{
         height: 80px;
