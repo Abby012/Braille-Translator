@@ -31,7 +31,8 @@ textarea{
     display: flex;
     width: 100%;
     justify-content:left;
-    background-color:   rgb(248, 230, 202);
+    /* background-color:   rgb(248, 230, 202); */
+    background-color:rgba(252, 253, 253, 0.7);
     position: absolute;
     top: 0;
 }
@@ -52,7 +53,8 @@ textarea{
 }
 
 .navbar ul li a:hover{
-    background-color:rgb(243, 219, 171);
+    /* background-color:   rgb(248, 230, 202); */
+    /* background-color:rgb(243, 219, 171); */
     transition: 0.2s;
     font-weight: 900;
 }
