@@ -103,6 +103,7 @@ input[type=text]{
 }
 .body-content{
     width: 1000px;
+    overflow-y: hidden;
 }
 .body-content h1{
     font-size: 55px;
